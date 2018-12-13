@@ -48,7 +48,7 @@ Images block
 	display: none;
 }
 .cd-images-list > li {
-	background: #343642 url(../images/event1.jpg) no-repeat center center;
+	background: #343642 url(../images/Contrast.png) no-repeat center center;
 	background-size: cover;
 	height: 250px;
 }
